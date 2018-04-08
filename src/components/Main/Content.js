@@ -11,8 +11,8 @@ const styles = theme => ({
     fontSize: props => `calc(${theme.main.fonts.content.size}em * ${props.fontSizeIncrease})`,
     lineHeight: theme.main.fonts.content.lineHeight,
     "& a": {
-      borderBottom: `1px solid ${theme.base.colors.link}`,
-      color: theme.base.colors.link
+      borderBottom: `0px solid ${theme.base.colors.link}`,
+      color: theme.base.colors.link,
     },
     "& .gatsby-highlight": {
       margin: "2em 0"
@@ -60,9 +60,9 @@ const styles = theme => ({
       margin: "0 0 .5em 0"
     },
     "& blockquote": {
-      border: `5px solid ${theme.main.colors.blockquoteFrame}`,
-      fontStyle: "italic",
+      border: `0px solid ${theme.main.colors.blockquoteFrame}`,
       margin: "2.5em 0",
+      borderRadius: ".5em",
       padding: "1em 1.1em 1em 1.3em",
       position: "relative",
       "& p": {

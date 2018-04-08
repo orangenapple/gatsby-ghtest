@@ -6,9 +6,9 @@ cover: milk_fever_cow.png
 ---
 ##### Our guides contain multiple information sources, learn more:
 
-<a href="/about"><img style="height:2.5em;" src="http://acresofdata.com/wp-content/uploads/2018/04/top_member_questions.png" ></a>
-<a href="/about"><img style="height:2.5em;" src="http://acresofdata.com/wp-content/uploads/2018/04/top_member_answers.png" ></a>
-<a href="/about"><img style="height:2.5em;" src="http://acresofdata.com/wp-content/uploads/2018/04/agri_expert_sources.png" ></a>
+<a href="/about"><img style="height:2.5em;" src="https://acresofdata.com/wp-content/uploads/2018/04/top_member_questions.png" ></a>
+<a href="/about"><img style="height:2.5em;" src="https://acresofdata.com/wp-content/uploads/2018/04/top_member_answers.png" ></a>
+<a href="/about"><img style="height:2.5em;" src="https://acresofdata.com/wp-content/uploads/2018/04/agri_expert_sources.png" ></a>
 
 -----
 
