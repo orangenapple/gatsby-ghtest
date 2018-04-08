@@ -130,7 +130,7 @@ const theme = createMuiTheme({
   },
   bars: {
     colors: {
-      background: colors.background,
+      background: colors.afc_background,
       icon: colors.gray,
       text: colors.gray
     },
