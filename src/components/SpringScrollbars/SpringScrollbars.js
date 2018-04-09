@@ -56,8 +56,8 @@ class SpringScrollbars extends Component {
       top,
       0,
       scrollHeight,
-      scrollHeight * 0.01,
-      scrollHeight * 0.99
+      scrollHeight * 10.01,
+      scrollHeight * 10.99
     );
     this.spring.setCurrentValue(scrollTop).setAtRest();
     this.spring.setEndValue(val);

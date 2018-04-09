@@ -27,7 +27,7 @@ const styles = theme => ({
       position: "absolute",
       top: "10px",
       left: "50%",
-      marginLeft: "-30px",
+      marginLeft: "-50px",
       transition: "all .5s",
       transitionTimingFunction: "ease",
       ".navigator-in-transition-from.navigator-is-opened &": {
@@ -40,10 +40,10 @@ const styles = theme => ({
     }
   },
   avatar: {
-    width: "36px",
-    height: "36px",
-    borderRadius: "65% 75%",
+    width: "80px",
+    borderRadius: "10px",
     border: "1px solid #ddd",
+    height: "36px",
     transition: "all .3s",
     transitionTimingFunction: "ease",
     display: "inline-block",
@@ -52,17 +52,12 @@ const styles = theme => ({
       maxWidth: "100%"
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
-      width: "44px",
-      height: "44px"
+      width: "96px",
+      height: "26px"
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
-      width: "60px",
-      height: "60px"
-    },
-    "@media (hover: hover)": {
-      "&:hover": {
-        borderRadius: "75% 65%"
-      }
+      width: "96px",
+      height: "26px"
     }
   },
   title: {
@@ -73,7 +68,7 @@ const styles = theme => ({
     transitionTimingFunction: "ease",
     "& small": {
       display: "block",
-      fontSize: ".6em",
+      fontSize: ".5em",
       marginTop: ".3em"
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
@@ -88,7 +83,7 @@ const styles = theme => ({
       transform: "translate(-50%)",
       transition: "all .5s",
       ".is-aside.open &": {
-        left: "60%",
+        left: "65%",
         top: `${1.9 - theme.info.fonts.boxTitleSizeL}em`,
         textAlign: "left"
       }
@@ -111,7 +106,7 @@ const InfoHeader = props => {
 
   return (
     <header className={classes.header}>
-      <Link className={classes.avatarLink} onClick={avatarOnClick} to="/" title="back to Home page">
+      <Link className={classes.avatarLink} onClick=""  to="/contact" title="back to Home page">
         <div className={classes.avatar}>
           <img src={avatar} alt="" />
         </div>
