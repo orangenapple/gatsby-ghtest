@@ -9,7 +9,7 @@ import screenfull from "screenfull";
 
 import HomeIcon from "material-ui-icons/Home";
 import SearchIcon from "material-ui-icons/Search";
-import ArrowUpwardIcon from "material-ui-icons/ArrowUpward";
+import ArrowUpwardIcon from "material-ui-icons/Comment";
 import FullscreenIcon from "material-ui-icons/Fullscreen";
 import FullscreenExitIcon from "material-ui-icons/FullscreenExit";
 
