@@ -4,7 +4,7 @@ subTitle: Top tips from AFC
 category: "milk fever"
 cover: milk_fever_cow.png
 ---
-<a href="/about"><img style="height:2.5em;" src="http://acresofdata.com/wp-content/uploads/2018/04/buttons-e1523520950861.png" ></a>
+<a href="/about"><img style="height:2.5em;" src="https://acresofdata.com/wp-content/uploads/2018/04/buttons-e1523520950861.png" ></a>
 
 Let's start with some expert advice from ILRI 👇
 
@@ -20,10 +20,10 @@ Most cases occur between 48 hours before calving and 72 hours after calving. Mil
 
   <div>
   Source:
-  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <img src="https://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
   <b>ILRI</b><div style="float: right;margin-top:-15px;"> <b>56</b>
     <a href = "#">
-      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+      <img style="height:3.2em;" src="https://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
     </a>
   </div>
   </div>
@@ -46,10 +46,10 @@ The daily requirement of a 600kg pregnant dry cow is about 40 grams of calcium a
 
   <div>
   Source:
-  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <img src="https://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
   <b>ILRI</b><div style="float: right;margin-top:-15px;"> <b>56</b>
     <a href = "#">
-      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+      <img style="height:3.2em;" src="https://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
     </a>
   </div>
   </div>
@@ -70,10 +70,10 @@ Franche asked a key question relevant to many farmers...
 
   <div>
   Posted by
-  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <img src="https://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
   <b>Franche Addy Ngugz</b><div style="float: right;margin-top:-15px;"> <b>36</b>
     <a href = "#">
-      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+      <img style="height:3.2em;" src="https://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
     </a>
   </div>
   </div>
@@ -95,10 +95,10 @@ What's it's demeanor?
 
   <div>
   Posted by
-  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <img src="https://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
   <b>James Wangui</b><div style="float: right;margin-top:-15px;"> <b>22</b>
     <a href = "#">
-      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+      <img style="height:3.2em;" src="https://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
     </a>
   </div>
   </div>
@@ -118,10 +118,10 @@ Do not feed dry cows excess legumes or alfalfa as they are high in calcium. Gras
 
   <div>
   Posted by
-  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <img src="https://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
   <b>Africa Farmers Club</b><div style="float: right;margin-top:-15px;"> <b>22</b>
     <a href = "#">
-      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+      <img style="height:3.2em;" src="https://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
     </a>
   </div>
   </div>
@@ -146,10 +146,10 @@ After 12 hours of milk fever: Down on side and unresponsive
 
   <div>
   Source:
-  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <img src="https://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
   <b>ILRI</b><div style="float: right;margin-top:-15px;"> <b>56</b>
     <a href = "#">
-      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+      <img style="height:3.2em;" src="https://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
     </a>
   </div>
   </div>
@@ -170,10 +170,10 @@ Philip asked a key question relevant to many farmers...
 
   <div>
   Posted by
-  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <img src="https://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
   <b>Philip Macharia</b><div style="float: right;margin-top:-15px;"> <b>36</b>
     <a href = "#">
-      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+      <img style="height:3.2em;" src="https://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
     </a>
   </div>
   </div>
@@ -193,10 +193,10 @@ At 1st stage oral calcium like animatic calcium from osho chemicals 100mls per d
 
   <div>
   Posted by
-  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <img src="https://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
   <b>James Wangui</b><div style="float: right;margin-top:-15px;"> <b>22</b>
     <a href = "#">
-      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+      <img style="height:3.2em;" src="https://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
     </a>
   </div>
   </div>
@@ -210,7 +210,7 @@ Betty's experience with Milk fever...
 <blockquote style="background: #96e58e;">
 
   <div>
-  <img style="width: 100%" src="http://acresofdata.com/wp-content/uploads/2018/04/milk_fever_story-aaa829c6d98f7f8ece074398948a1089-7c7d1.png" >
+  <img style="width: 100%" src="https://acresofdata.com/wp-content/uploads/2018/04/milk_fever_story-aaa829c6d98f7f8ece074398948a1089-7c7d1.png" >
   </div>
 
   <br></br>
@@ -221,10 +221,10 @@ Betty's experience with Milk fever...
 
   <div>
   Posted by
-  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <img src="https://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
   <b>Betty Kathomi</b><div style="float: right;margin-top:-15px;"> <b>36</b>
     <a href = "#">
-      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+      <img style="height:3.2em;" src="https://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
     </a>
   </div>
 
