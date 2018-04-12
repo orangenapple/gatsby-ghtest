@@ -61,12 +61,15 @@ const styles = theme => ({
     },
     "& blockquote": {
       border: `0px solid ${theme.main.colors.blockquoteFrame}`,
-      margin: "2.5em 0",
+      margin: "1.5em 0",
       borderRadius: ".5em",
-      padding: "1em 1.1em 1em 1.3em",
+      padding: "1.5em 1.5em 1.5em 1.5em",
       position: "relative",
       "& p": {
         margin: 0
+      },
+       "& h2, & h3": {
+        margin: "0.5em 0 1em"
       },
       "&::before, &::after": {
         background: theme.main.colors.background,

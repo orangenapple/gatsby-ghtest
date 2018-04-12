@@ -1,23 +1,243 @@
 ---
-title: Two things are infinite the universe and human stupidity
-subTitle: And I'm not sure about the universe.
-cover: photo-1490474418585-ba9bad8fd0ea-cover.jpg
+title: Preventing and Treating Milk Fever
+subTitle: Top tips from AFC
+category: "milk fever"
+cover: milk_fever_cow.png
+---
+<a href="/about"><img style="height:2.5em;" src="http://acresofdata.com/wp-content/uploads/2018/04/buttons-e1523520950861.png" ></a>
+
+Let's start with some expert advice from ILRI 👇
+
+<blockquote style="background: #D7F19F;">
+
+### Milk fever is caused by slow calcium absorption during calving
+
+When a cow is calving she will lose a lot of calcium from her blood into the milk. The cow will need to start absorbing more calcium from her bones and feed to replace the lost calcium. If a cow cannot absorb calcium quickly enough then she will get sick. This is milk fever.
+
+Most cases occur between 48 hours before calving and 72 hours after calving. Milk fever is rare for first-calf heifers but becomes higher with each new calf.
+
+  <br></br>
+
+  <div>
+  Source:
+  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <b>ILRI</b><div style="float: right;margin-top:-15px;"> <b>56</b>
+    <a href = "#">
+      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+    </a>
+  </div>
+  </div>
+
+</blockquote>
+
+Though some farmers may think the opposite is correct, it may be important to **reduce the calcium intake** of affected cows before calving...
+
+![unsplash.com](./milk_fever_cow.png)
+
+<blockquote style="background: #D7F19F;">
+
+### Prevent milk fever by reducing calcium intake in the 3 weeks before calving
+
+If you feed your cow too much calcium during the dry period then you will slow down her rate of calcium absorption. When she calves it will take her a couple of weeks to increase her rate of calcium absorption back up to the right levels. In the meantime she will become calcium deficient.
+
+The daily requirement of a 600kg pregnant dry cow is about 40 grams of calcium and 30 grams of phosphorus.
+
+  <br></br>
+
+  <div>
+  Source:
+  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <b>ILRI</b><div style="float: right;margin-top:-15px;"> <b>56</b>
+    <a href = "#">
+      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+    </a>
+  </div>
+  </div>
+
+</blockquote>
+
+### Top Q&A from AFC members
+
+Franche asked a key question relevant to many farmers...
+
+<blockquote style="background: #6EA6A2;">
+
+  ### Franche's Question
+
+  What causes a cow to fall after giving birth.. Being unable to stand n what should I feed it not to occur again?
+
+  <br></br>
+
+  <div>
+  Posted by
+  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <b>Franche Addy Ngugz</b><div style="float: right;margin-top:-15px;"> <b>36</b>
+    <a href = "#">
+      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+    </a>
+  </div>
+  </div>
+
+</blockquote>
+
+A top answer we've selected comes from James...
+
+<blockquote style="background: #96e58e;">
+
+### Jame's Answer
+
+Your cow falling down could be due to milk fever, injury to nerves or fracture.
+<br></br>
+How was calving process, smooth or laboured?
+How many times have it calved?
+What's it's demeanor?
+  <br></br>
+
+  <div>
+  Posted by
+  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <b>James Wangui</b><div style="float: right;margin-top:-15px;"> <b>22</b>
+    <a href = "#">
+      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+    </a>
+  </div>
+  </div>
+
+</blockquote>
+
+Our AFC opinion on this topic
+
+<blockquote style="background: #D7F19F;">
+
+### AFC opinion
+
+If the problem is milk fever then avoid feeding it any high calcium salts during the dry period. If you are using salts then buy those that are specifically for dry cows.
+<br></br>
+Do not feed dry cows excess legumes or alfalfa as they are high in calcium. Grass hay, silage, cereals and maizestalks are all low in calcium and safe to feed to dry cows.
+  <br></br>
+
+  <div>
+  Posted by
+  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <b>Africa Farmers Club</b><div style="float: right;margin-top:-15px;"> <b>22</b>
+    <a href = "#">
+      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+    </a>
+  </div>
+  </div>
+
+</blockquote>
+
+It is key for farmers to understand the **stages of milk fever**...
+
+![unsplash.com](./milk_fever_stages.png)
+
+<blockquote style="background: #D7F19F;">
+
+### The stages of milk fever
+
+First 1 hour of milk fever: Standing but wobbly or twitching. Loss of appetite. Cold ears, dry mouth.
+<br></br>
+Next 1-12 hours of milk fever: Down on chest and drowsy
+<br></br>
+After 12 hours of milk fever: Down on side and unresponsive
+
+  <br></br>
+
+  <div>
+  Source:
+  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <b>ILRI</b><div style="float: right;margin-top:-15px;"> <b>56</b>
+    <a href = "#">
+      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+    </a>
+  </div>
+  </div>
+
+</blockquote>
+
+### Top Q&A from AFC members
+
+Philip asked a key question relevant to many farmers...
+
+<blockquote style="background: #6EA6A2;">
+
+  ### Philip's Question
+
+  I am a vet and often meets pregnant cows that will go down at almost eight months with poor response to calciject administration, who has handled the same and came up with good results?
+
+  <br></br>
+
+  <div>
+  Posted by
+  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <b>Philip Macharia</b><div style="float: right;margin-top:-15px;"> <b>36</b>
+    <a href = "#">
+      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+    </a>
+  </div>
+  </div>
+
+</blockquote>
+
+A top answer we've selected comes from James...
+
+<blockquote style="background: #96e58e;">
+
+### Jame's Answer
+
+Milk fever aproach depends on its stage.The amount to inject i.v depends on the live weight of the cow to avoid calcium poisoning
+<br></br>
+At 1st stage oral calcium like animatic calcium from osho chemicals 100mls per day plus a good D.C.P helps.
+  <br></br>
+
+  <div>
+  Posted by
+  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <b>James Wangui</b><div style="float: right;margin-top:-15px;"> <b>22</b>
+    <a href = "#">
+      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+    </a>
+  </div>
+  </div>
+
+</blockquote>
+
+### Real Farmer Stories
+
+Betty's experience with Milk fever...
+
+<blockquote style="background: #96e58e;">
+
+  <div>
+  <img style="width: 100%" src="http://acresofdata.com/wp-content/uploads/2018/04/milk_fever_story-aaa829c6d98f7f8ece074398948a1089-7c7d1.png" >
+  </div>
+
+  <br></br>
+  
+  "What a Miracle working God!!!!! Finally the cow has risen up."
+  
+  <br></br>
+
+  <div>
+  Posted by
+  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" >
+  <b>Betty Kathomi</b><div style="float: right;margin-top:-15px;"> <b>36</b>
+    <a href = "#">
+      <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
+    </a>
+  </div>
+
+</blockquote>
+
 ---
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:
+### Read more topics
+There are number of other important topics in this guide:
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+* [Milk Fever Part 2](/about) ⭐ - More guidance on milk fever
+* [ECF Disease](/about)  ⭐- Know what to look out for
+* [Advice on market prices](/about)  ⭐- Market data on on sales in Kenya
 
-Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.
 
-> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.
-
-### Cras semper consectetur elementum
-
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-
-![unsplash.com](./photo-1490474418585-ba9bad8fd0ea.jpg)
-
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.

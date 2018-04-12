@@ -1,5 +1,5 @@
 module.exports = {
-  afc_background: "#96e58e",
+  afc_background: "#ffffff",
   background: "#ffffff",
   white: "#ffffff",
   accent: "#709425",

@@ -4,19 +4,11 @@ subTitle: Top tips from AFC
 category: "milk fever"
 cover: milk_fever_cow.png
 ---
-##### Our guides contain multiple information sources, learn more:
-
-<a href="/about"><img style="height:2.5em;" src="https://acresofdata.com/wp-content/uploads/2018/04/top_member_questions.png" ></a>
-<a href="/about"><img style="height:2.5em;" src="https://acresofdata.com/wp-content/uploads/2018/04/top_member_answers.png" ></a>
-<a href="/about"><img style="height:2.5em;" src="https://acresofdata.com/wp-content/uploads/2018/04/agri_expert_sources.png" ></a>
-
------
-
-### Expert tips from ILRI
+<a href="/about"><img style="height:2.5em;" src="http://acresofdata.com/wp-content/uploads/2018/04/buttons-e1523520950861.png" ></a>
 
 Let's start with some expert advice from ILRI 👇
 
-<blockquote style="background: #F4E76E;">
+<blockquote style="background: #D7F19F;">
 
 ### Milk fever is caused by slow calcium absorption during calving
 
@@ -42,7 +34,7 @@ Though some farmers may think the opposite is correct, it may be important to **
 
 ![unsplash.com](./milk_fever_cow.png)
 
-<blockquote style="background: #F4E76E;">
+<blockquote style="background: #D7F19F;">
 
 ### Prevent milk fever by reducing calcium intake in the 3 weeks before calving
 
@@ -68,7 +60,9 @@ The daily requirement of a 600kg pregnant dry cow is about 40 grams of calcium a
 
 Franche asked a key question relevant to many farmers...
 
-<blockquote style="background: #a5c4ef;">
+<blockquote style="background: #6EA6A2;">
+
+  ### Franche's Question
 
   What causes a cow to fall after giving birth.. Being unable to stand n what should I feed it not to occur again?
 
@@ -89,6 +83,8 @@ Franche asked a key question relevant to many farmers...
 A top answer we've selected comes from James...
 
 <blockquote style="background: #96e58e;">
+
+### Jame's Answer
 
 Your cow falling down could be due to milk fever, injury to nerves or fracture.
 <br></br>
@@ -111,7 +107,10 @@ What's it's demeanor?
 
 Our AFC opinion on this topic
 
-<blockquote style="background: #96e58e;">
+<blockquote style="background: #D7F19F;">
+
+### AFC opinion
+
 If the problem is milk fever then avoid feeding it any high calcium salts during the dry period. If you are using salts then buy those that are specifically for dry cows.
 <br></br>
 Do not feed dry cows excess legumes or alfalfa as they are high in calcium. Grass hay, silage, cereals and maizestalks are all low in calcium and safe to feed to dry cows.
@@ -133,7 +132,7 @@ It is key for farmers to understand the **stages of milk fever**...
 
 ![unsplash.com](./milk_fever_stages.png)
 
-<blockquote style="background: #F4E76E;">
+<blockquote style="background: #D7F19F;">
 
 ### The stages of milk fever
 
@@ -161,7 +160,9 @@ After 12 hours of milk fever: Down on side and unresponsive
 
 Philip asked a key question relevant to many farmers...
 
-<blockquote style="background: #a5c4ef;">
+<blockquote style="background: #6EA6A2;">
+
+  ### Philip's Question
 
   I am a vet and often meets pregnant cows that will go down at almost eight months with poor response to calciject administration, who has handled the same and came up with good results?
 
@@ -183,6 +184,8 @@ A top answer we've selected comes from James...
 
 <blockquote style="background: #96e58e;">
 
+### Jame's Answer
+
 Milk fever aproach depends on its stage.The amount to inject i.v depends on the live weight of the cow to avoid calcium poisoning
 <br></br>
 At 1st stage oral calcium like animatic calcium from osho chemicals 100mls per day plus a good D.C.P helps.
@@ -202,14 +205,18 @@ At 1st stage oral calcium like animatic calcium from osho chemicals 100mls per d
 
 ### Real Farmer Stories
 
-![unsplash.com](./milk_fever_story.png)
+Betty's experience with Milk fever...
 
-<blockquote style="background: #a5c4ef;">
+<blockquote style="background: #96e58e;">
 
- ### Betty's experience with milk fever
+  <div>
+  <img style="width: 100%" src="http://acresofdata.com/wp-content/uploads/2018/04/milk_fever_story-aaa829c6d98f7f8ece074398948a1089-7c7d1.png" >
+  </div>
 
+  <br></br>
+  
   "What a Miracle working God!!!!! Finally the cow has risen up."
-
+  
   <br></br>
 
   <div>
@@ -219,7 +226,6 @@ At 1st stage oral calcium like animatic calcium from osho chemicals 100mls per d
     <a href = "#">
       <img style="height:3.2em;" src="http://acresofdata.com/wp-content/uploads/2018/04/clap_btn.png" >
     </a>
-  </div>
   </div>
 
 </blockquote>

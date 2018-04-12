@@ -1,45 +1,50 @@
 ---
-title: About
+title: Why Subscribe?
 ---
 
-This is a demo site of the [Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) [GatsbyJs](https://www.gatsbyjs.org/) starter.
+## Weekly Alerts!
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+The **full subscription** comes with the following weekly updates delivered to you via Facebook Messenger:
 
-### Standard features:
+<blockquote style="background: #f2f3f4;">
+<h3>1. Weekly Cow Sales Alert</h3>
+<img style="width: 100%" src="http://acresofdata.com/wp-content/uploads/2018/04/IMAGE-2018-04-12-113612.jpg" >
+<br></br>
+☝️ Every week you get a selection of the <b>latest cows for sale</b>, including prices and location!
+</blockquote>
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifes.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
+and also...
 
-### Advanced features:
+<blockquote style="background: #f2f3f4;">
+<h3>2. Weekly Milk Price Alert</h3>
+<img style="width: 100%" src="http://acresofdata.com/wp-content/uploads/2018/04/IMAGE-2018-04-12-113654.jpg" >
+<br></br>
+☝️ Every week you get a report on 100s of milk prices around Kenya, split by different categories: broker, co-op, processor and milk bar!
+</blockquote>
 
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** leazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
+## Expertise, Top Questions & Real Farmer Experiences!
 
-## Instructions
+With the **full subscription** you can unlock **all the topics** in this guide. Each topic includes:
 
-For detailed instructions go to [Greg for Gatsby](https://forgatsby.greglobinski.com/gatsby-starter-personal-blog/).
+<blockquote style="background: #f2f3f4;">
+<img style="height:3em; border: 1px solid; border-color: #ffffff;border-radius: .6em;" src="http://acresofdata.com/wp-content/uploads/2018/04/expert-sources.png" >
+<br></br>
+☝️ Our guides include research from <b>respected expert sources</b>, you can quickly see this information highlighted light green.
+</blockquote>
 
-## About me
+<blockquote style="background: #f2f3f4;">
+<img style="height:3em; border: 1px solid; border-color: #ffffff;border-radius: .6em;" src="http://acresofdata.com/wp-content/uploads/2018/04/top_questions.png" >
+<br></br>
+☝️ We know that <b>real farmer questions are important</b> so we select top questions from members in blue.
+</blockquote>
 
-My name is **Greg**. I am a front-end web developer. I love working with [GatsbyJs](https://www.gatsbyjs.org/). I love the UX it delivers out of the box for the end users and DX it provides to me as a developer. I decided to share the love by contributing in this way, sharing my code as starters. I hope somebody find that useful.
+<blockquote style="background: #f2f3f4;">
+<img style="height:3em; border: 1px solid; border-color: #ffffff;border-radius: .6em;" src="http://acresofdata.com/wp-content/uploads/2018/04/answers.png" >
+<br></br>
+☝️ We then select <b>real farmer answers and farmer experiences</b> that are relevant, you can find these in darker green
+</blockquote>
 
-For sure it's not my last [Gatsby starter](/starters). If you want to be in touch follow my on Twitter [@greglobinski](https://twitter.com/greglobinski)
+## How do I sign up?
 
-PS: Please be understanding. The English language is not my native language. If you find any bug or not clear words you can always do PR to [gatsby-starter-personal-blog](https://github.com/greglobinski/gatsby-starter-personal-blog), the repo contains the actual code of this demo.
+It's simple, simply press **[Get Full Guide](https://africafarmersclub.com/starters)** to find out how to get full access!
+

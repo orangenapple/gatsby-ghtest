@@ -19,8 +19,8 @@ const theme = createMuiTheme({
     },
     fonts: {
       unstyledFamily: `Arial`,
-      styledFamily: "Open Sans",
-      styledFonts: "300,400,600"
+      styledFamily: "Roboto",
+      styledFonts: "200,300,400"
     }
   },
   info: {
@@ -76,14 +76,14 @@ const theme = createMuiTheme({
     },
     fonts: {
       title: {
-        size: 1.9,
+        size: 2,
         sizeM: 2.5,
         sizeL: 2.7,
         weight: 600,
         lineHeight: 1.1
       },
       subTitle: {
-        size: 1.5,
+        size: 1.2,
         sizeM: 1.8,
         sizeL: 1.95,
         weight: 300,
@@ -94,7 +94,7 @@ const theme = createMuiTheme({
         weight: 600
       },
       content: {
-        size: 1.0,
+        size: 0.8,
         sizeM: 1.15,
         sizeL: 1.1,
         lineHeight: 1.6

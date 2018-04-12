@@ -65,7 +65,7 @@ class InfoBar extends React.Component {
 
     return (
       <aside className={classes.infoBar}>
-        <Link to="/contact" className={classes.avatarLink} onClick={this.pageLinkOnClick}>
+        <Link to="/starters" className={classes.avatarLink} onClick={this.pageLinkOnClick}>
           <Avatar alt={config.infoTitle} src={avatar} className={classes.avatar} />
         </Link>
         <h3 className={classes.title}>

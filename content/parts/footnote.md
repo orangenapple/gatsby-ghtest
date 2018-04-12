@@ -2,4 +2,4 @@
 title: footnote
 ---
 
-A guide made with care from Africa Farmers Club
+Made with ♥️ by Africa Farmers Club
