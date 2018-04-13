@@ -14,7 +14,7 @@ East Coast fever or theileriosis is an animal disease in Africa caused by the pr
 
 As of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992.
 
-<a href="/about"><img src="unlock.png" ></a>
+<a href="/starters"><img style="width:100%;" src="https://africafarmersclub.com/static/unlock-ce6b2bb20bd4421fb7bc58716ac4c0c6-2ae99.png" ></a>
 
 ---
 
@@ -24,6 +24,7 @@ There are number of other important topics in this guide:
 * [Preventing and treating milk fever](/about) ⭐ - Guidance on milk fever issues
 * [How to feed your cow - part 1](/about)  ⭐- Know best feeds for production
 * [How to feed your cow - part 2](/about)  🔒- Know best feeds for production
-* [See all topics](/about)
+
+...or you can just [see all topics](/)
 
 

@@ -1,5 +1,6 @@
 ---
 title: Why Subscribe?
+menuTitle: Why Subscribe
 ---
 
 ## Weekly Alerts!
@@ -46,5 +47,7 @@ With the **full subscription** you can unlock **all the topics** in this guide. 
 
 ## How do I sign up?
 
-It's simple, simply press **[Get Full Package](/starters)** to find out how to get full access!
+It's simple **[take a look at the full package page](/starters)** to find out how to get unrestricted access!
+
+If you want to see all topics in the guide again [go here](/)...
 

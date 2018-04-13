@@ -5,6 +5,17 @@ category: "milk fever"
 cover: milk_fever_cow.png
 ---
 
+![](./ILRI-logo.png)
+![](./Betty.jpg)
+![](./app_icon.png)
+![](./clap_btn.jpg)
+![](./comment_icon.png)
+![](./Franche.jpg)
+![](./James_W.jpg)
+![](./key_bar-1.png)
+![](./Philip_M.jpg)
+![](./Sammi_M.jpg)
+
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 1.3em">To add your question press <img style="height:2em;" src="https://acresofdata.com/wp-content/uploads/2018/04/comment_icon-1.png" >  below 👇</p>
 </blockquote>
@@ -238,6 +249,8 @@ Betty's experience with Milk fever...
 
 </blockquote>
 
+
+
 ---
 
 ### Read more topics
@@ -249,3 +262,4 @@ There are number of other important topics in this guide:
 
 
 
+<h3 ref='scroll_here'>Scroll to here</h3>

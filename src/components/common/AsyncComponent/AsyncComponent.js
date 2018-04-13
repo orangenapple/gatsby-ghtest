@@ -11,6 +11,7 @@ export default function asyncComponent(getComponent, loadingComponent) {
         });
       }
     }
+
     render() {
       const { Component } = this.state;
       if (Component) {

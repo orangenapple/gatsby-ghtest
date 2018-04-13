@@ -1,6 +1,6 @@
 ---
-title: Get full package
-menuTitle: Get full packakge
+title: Get Full Package
+menuTitle: Get Full Package
 ---
 
 <br></br>
