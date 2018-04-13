@@ -4,7 +4,7 @@ import injectSheet from "react-jss";
 
 const styles = theme => ({
   header: {
-    margin: "0 0 3em"
+    margin: "0 0 0em"
   },
   title: {
     color: theme.main.colors.title,
@@ -53,16 +53,8 @@ const PostHeader = props => {
   return (
     <header className={classes.header}>
       <h1 className={classes.title}>{title}</h1>
-      <h2 className={classes.subTitle}>{subTitle}</h2>
     </header>
   );
-};
-
-PostHeader.propTypes = {
-  classes: PropTypes.object.isRequired,
-  title: PropTypes.string.isRequired,
-  subTitle: PropTypes.string,
-  date: PropTypes.string.isRequired
 };
 
 export default injectSheet(styles)(PostHeader);

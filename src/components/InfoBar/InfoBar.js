@@ -49,9 +49,9 @@ const styles = theme => ({
     margin: "13px 0 0 30px"
   },
   avatar: {
-    width: "133px",
+    width: "156px",
     borderRadius: "10px",
-    border: "1px solid #ddd",
+    border: "2px solid #ddd",
     height: "36px"
   }
 });

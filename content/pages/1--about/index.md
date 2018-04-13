@@ -46,5 +46,5 @@ With the **full subscription** you can unlock **all the topics** in this guide. 
 
 ## How do I sign up?
 
-It's simple, simply press **[Get Full Guide](https://africafarmersclub.com/starters)** to find out how to get full access!
+It's simple, simply press **[Get Full Package](/starters)** to find out how to get full access!
 

@@ -4,8 +4,16 @@ subTitle: Top tips from AFC
 category: "milk fever"
 cover: milk_fever_cow.png
 ---
-<a href="/about"><img style="height:2.5em;" src="https://acresofdata.com/wp-content/uploads/2018/04/buttons-e1523520950861.png" ></a>
 
+<blockquote style="background: #f2f3f4;">
+<p style="text-align: center; font-weight: 300; font-size: 1.3em">To add your question press <img style="height:2em;" src="https://acresofdata.com/wp-content/uploads/2018/04/comment_icon-1.png" >  below 👇</p>
+</blockquote>
+
+<div style="text-align: center">
+<a href="/about"><img style="height:3em;" src="https://acresofdata.com/wp-content/uploads/2018/04/key_bar.png" ></a>
+</div>
+
+<br></br>
 Let's start with some expert advice from ILRI 👇
 
 <blockquote style="background: #D7F19F;">

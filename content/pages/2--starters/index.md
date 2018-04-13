@@ -1,20 +1,19 @@
 ---
-title: Get full guide
-menuTitle: Get full guide
+title: Get full package
+menuTitle: Get full packakge
 ---
 
-![unsplash.com](./buy-my-onions.png)
+<br></br>
 
-As a commitment to members we offer a lot of information for free for no charge, but to keep AFC running these services **we must support our hard working internal team.** 
+If you are a dairy farmer or interested to start in dairy, then AFC premium dairy package is for you!
 
-You choose what to donate for your **annual subscription** that includes weekly alerts, all topics and more... 
+[Why subscribe?](/about) The full package offers:
 
-<img style="width: 100%" src="https://acresofdata.com/wp-content/uploads/2018/04/dummy_pay_ui.png">
+* Weekly cow sale alerts
+* Weekly milk price updates 
+* All topics in this guide unlocked
 
-
-<img style="width: 100%" src="https://acresofdata.com/wp-content/uploads/2018/04/enter_phone_num.png">
-
-<img style="width: 100%" src="https://acresofdata.com/wp-content/uploads/2018/04/get-full-guide.png">
+Please ensure you have Facebook Messenger installed and then find out how to get the package by [pressing here](https://m.me/africafarmersclub)
 
 
 

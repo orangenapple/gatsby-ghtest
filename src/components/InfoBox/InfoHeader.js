@@ -40,10 +40,10 @@ const styles = theme => ({
     }
   },
   avatar: {
-    width: "80px",
+    width: "96px",
     borderRadius: "10px",
-    border: "1px solid #ddd",
-    height: "36px",
+    border: "2px solid #ddd",
+    height: "24px",
     transition: "all .3s",
     transitionTimingFunction: "ease",
     display: "inline-block",
@@ -53,11 +53,11 @@ const styles = theme => ({
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
       width: "96px",
-      height: "26px"
+      height: "24px"
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
       width: "96px",
-      height: "26px"
+      height: "24px"
     }
   },
   title: {

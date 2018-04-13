@@ -6,6 +6,12 @@ cover: milk_fever_cow.png
 ---
 <a href="/about"><img style="height:2.5em;" src="http://acresofdata.com/wp-content/uploads/2018/04/buttons-e1523520950861.png" ></a>
 
+<blockquote style="background: #D7F19F;">
+
+To add your question press  <img src="http://www.iconninja.com/ico/32/user-headset-man-support-male-young-avatar-15873.ico" > below 👇
+
+</blockquote>
+
 Let's start with some expert advice from ILRI 👇
 
 <blockquote style="background: #D7F19F;">
