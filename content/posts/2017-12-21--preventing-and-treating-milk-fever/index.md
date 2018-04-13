@@ -6,7 +6,7 @@ cover: milk_fever_cow.png
 ---
 
 <blockquote style="background: #f2f3f4;">
-<p style="text-align: center; font-weight: 300; font-size: 1.1em">To add your question press <img style="height:2em;" src="https://africafarmersclub.com/static/comment_icon-fd465a3a52da53f109d439f079d19bf5-08634.png" >  in bottom corner 👇</p>
+<p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://africafarmersclub.com/static/comment_icon-fd465a3a52da53f109d439f079d19bf5-08634.png" >  in bottom corner 👇</p>
 </blockquote>
 
 <div style="text-align: center">
@@ -256,7 +256,7 @@ Betty's experience with Milk fever...
   "What a Miracle working God!!!!! Finally the cow has risen up."
 
   <a href = "https://www.facebook.com/groups/DairyFarmingKenya/permalink/1569562173106725/">
-    <img style="height:2em; border-radius: 2em;border: 1px solid #ffff;" src="https://africafarmersclub.com/static/read_full_story-0cc65f007b012ef58d53aa25ee67925f-314ba.png" >
+    <img style="height:2em; border-radius: 2em;border: 1px solid #ffff;" src="https://acresofdata.com/wp-content/uploads/2018/04/read_full_story.png" >
   </a>
   <br></br>
 

@@ -5,18 +5,19 @@ category: "milk fever"
 cover: locked-ecf.png
 ---
 <blockquote style="background: #f2f3f4;">
-<p style="text-align: center; font-weight: 300; font-size: 1.3em">To add your question press <img style="height:2em;" src="https://acresofdata.com/wp-content/uploads/2018/04/comment_icon-1.png" >  below 👇</p>
+<p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://africafarmersclub.com/static/comment_icon-fd465a3a52da53f109d439f079d19bf5-08634.png" >  in bottom corner 👇</p>
 </blockquote>
-<a href="/about"><img style="height:2.5em;" src="https://acresofdata.com/wp-content/uploads/2018/04/buttons-e1523520950861.png" ></a>
 
+<div style="text-align: center">
+<a href="/about"><img style="height:3em;" src="https://africafarmersclub.com/static/key_bar-1-9b2f19aba3eb597319aeb514f4c1239f-8284c.png" ></a>
+</div>
 <br></br>
 East Coast fever or theileriosis is an animal disease in Africa caused by the protozoan parasite Theileria parva. It does not include tropical theileriosis (or Mediterranean theileriosis), a cattle disease caused by T. annulata, nor human theileriosis, caused by T. microti.
-
+<br></br>
 As of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992.
-
+<br></br>
 <a href="/starters"><img style="width:100%;" src="https://africafarmersclub.com/static/unlock-ce6b2bb20bd4421fb7bc58716ac4c0c6-2ae99.png" ></a>
 
----
 
 ### Read more topics
 There are number of other important topics in this guide:
