@@ -14,9 +14,12 @@ cover: locked-ecf.png
 <br></br>
 As of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992...
 <br></br>
-<a href="/starters"><img style="width:100%;" src="https://africafarmersclub.com/static/unlock-ce6b2bb20bd4421fb7bc58716ac4c0c6-2ae99.png" ></a>
 
-<h2 style="text-align: center;">🔒To unlock this topic you will need a full subscription - <a href="/about">click here for full package info</a></h2>
+![](./unlock_this.png)
+
+<h1 style="text-align: center;">🔒To unlock this topic you will need a full subscription <a href="/about">click here for full package info</a></h1>
+
+<br></br>
 
 ---
 ### Read more topics
