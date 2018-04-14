@@ -1,12 +1,23 @@
 ---
-title: Preventing and Treating Milk Fever
+title: Preventing and Managing Bloat in Cows
 subTitle: Top tips from AFC
 category: "milk fever"
-cover: milk_fever_cow.png
+cover: bloat_1.jpg
 ---
 
+<img src="./bloat_1.jpg" >
+<img src="./bloat_rumen_diagram.png" >
+<img src="./bloat_stages.png" >
+<img src="./caroh_k.jpg" >
+<img src="./halbe_k.jpg" >
+<img src="./jarius_b.jpg" >
+<img src="./mcaduwa_g.jpg" >
+<img src="./moses_k.jpg" >
+<img src="./suzy_j.jpg" >
+
+
 <blockquote style="background: #f2f3f4;">
-<p style="text-align: center; font-weight: 300; font-size: 0.8em">To add your question press <img style="height:2em;" src="https://africafarmersclub.com/static/comment_icon-fd465a3a52da53f109d439f079d19bf5-08634.png" >  in bottom corner 👇</p>
+<p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://africafarmersclub.com/static/comment_icon-fd465a3a52da53f109d439f079d19bf5-08634.png" >  in bottom corner 👇</p>
 </blockquote>
 
 <div style="text-align: center">
@@ -14,15 +25,17 @@ cover: milk_fever_cow.png
 </div>
 
 <br></br>
-Let's start with some expert advice from ILRI...
+Bloat can be dangerous. If not treated in time it can kill your cow...
+
+![](bloat_1.jpg)
 
 <blockquote style="background: #D7F19F;">
 
-### Milk fever is caused by slow calcium absorption during calving
+### Bloat is a serious condition that can kill cows within hours
 
-When a cow is calving she will lose a lot of calcium from her blood into the milk. The cow will need to start absorbing more calcium from her bones and feed to replace the lost calcium. If a cow cannot absorb calcium quickly enough then she will get sick. This is milk fever.
+Bloat happens due to an accumulation of gas in the rumen of the cow (fore stomach). If the bloat gets very bad then the rumen will push up against the lungs of the animal and stop it from breathing. Once this happens the cow will collapse and die.
 
-Most cases occur between 48 hours before calving and 72 hours after calving. Milk fever is rare for first-calf heifers but becomes higher with each new calf.
+It is important to monitor your cows for bloat as it can kill within a few hours of first showing signs.
 
 <br></br>
 
@@ -30,7 +43,7 @@ Most cases occur between 48 hours before calving and 72 hours after calving. Mil
     Source:
     <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/ILRI-logo-7ea55c4dbab6463d38e7fa23bf5fa02c-314ba.png" >
     <b>ILRI</b>
-    <div style="float: right;margin-top:0px;"> <b>21</b>
+    <div style="float: right;margin-top:0px;"> <b>33</b>
       <a href = "#">
         <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
       </a>
@@ -39,17 +52,15 @@ Most cases occur between 48 hours before calving and 72 hours after calving. Mil
 
 </blockquote>
 
-Though some farmers may think the opposite is correct, it may be important to **reduce the calcium intake** of affected cows before calving...
-
-![unsplash.com](./milk_fever_cow.png)
+It is important for farmers to understand **there are two main types of bloat** to look out for...
 
 <blockquote style="background: #D7F19F;">
 
-### Prevent milk fever by reducing calcium intake in the 3 weeks before calving
+### There are two main types of bloat in cows
 
-If you feed your cow too much calcium during the dry period then you will slow down her rate of calcium absorption. When she calves it will take her a couple of weeks to increase her rate of calcium absorption back up to the right levels. In the meantime she will become calcium deficient.
+Frothy bloat is caused by cows eating lots of wet, green pasture or lots of high quality forages such (e.g. young green cereals, canola, kale, peas, beans etc.)
 
-The daily requirement of a 600kg pregnant dry cow is about 40 grams of calcium and 30 grams of phosphorus.
+Gassy bloat can be caused by the food pipe being blocked so the cow cannot belch, certain types of diseases such as tetanus, large amounts of grain or irregular feeding
 
   <br></br>
 
@@ -57,31 +68,6 @@ The daily requirement of a 600kg pregnant dry cow is about 40 grams of calcium a
     Source:
     <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/ILRI-logo-7ea55c4dbab6463d38e7fa23bf5fa02c-314ba.png" >
     <b>ILRI</b>
-    <div style="float: right;margin-top:0px;"> <b>32</b>
-      <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
-      </a>
-    </div>
-  </div>
-
-</blockquote>
-
-### Top Q&A from AFC members
-
-Franche asked a key question relevant to many farmers...
-
-<blockquote style="background: #6EA6A2;">
-
-  ### Franche's Question
-
-  What causes a cow to fall after giving birth.. Being unable to stand n what should I feed it not to occur again?
-
-  <br></br>
-
-  <div>
-    Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Franche-f7779173731418dab96e2b976ca3b35d-a9e6a.jpg" >
-    <b>Franche N</b>
     <div style="float: right;margin-top:0px;"> <b>12</b>
       <a href = "#">
         <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
@@ -91,24 +77,44 @@ Franche asked a key question relevant to many farmers...
 
 </blockquote>
 
-A top answer we've selected comes from James...
+### Top Q&A from AFC members
+
+This is an issue that has affected our members. Those affected, like Jairus, ask for expert advise on how to handle this problem...
+
+<blockquote style="background: #6EA6A2;">
+
+  ### Jairus's Question
+
+  With the comeback of the rains fresh grasses and other edible plants brought about bloat .....what a loss,please advice the best mechanism to prevent the same in future
+  <br></br>
+  <div>
+    Posted by:
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Franche-f7779173731418dab96e2b976ca3b35d-a9e6a.jpg" >
+    <b>Jairus B</b>
+    <div style="float: right;margin-top:0px;"> <b>27</b>
+      <a href = "#">
+        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+      </a>
+    </div>
+  </div>
+
+</blockquote>
+
+We have nominated 2 top answers from Halbe and Moses...
 
 <blockquote style="background: #96e58e;">
 
-### Jame's Answer
+### Halbe's Answer
 
-Your cow falling down could be due to milk fever, injury to nerves or fracture.
+In Holland we seldom have bloat. And I am still puzzling why farmers in Kenya have bloat. Discussed this subject with my vet and we concluded that the reason is, that cows overeat themselves in a very short time. 
 <br></br>
-How was calving process, smooth or laboured?
-How many times have it calved?
-What's it's demeanor?
-  <br></br>
-
+Dutch cows do not do that, because they are fed 24/7. So when they go out for grazing after miliking in fresh wet grass, they will not overeat themselves, because they also got that grass in the stable during the night and even during the night they eat a complete load of grass ( 2600 kg grass with 18% dm for 80 adult cows) If not fresh grass during they night they get a load of maize silage, or grass silage, or a mixture, but they are always able to eat as much as they want during the evening and night.
+<br></br>
   <div>
     Posted by:
     <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/James_W-3006b86bbcbbccdb7b43254e85c76da4-a9e6a.jpg" >
-    <b>James W</b>
-    <div style="float: right;margin-top:0px;"> <b>31</b>
+    <b>Halbe K</b>
+    <div style="float: right;margin-top:0px;"> <b>44</b>
       <a href = "#">
         <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
       </a>
@@ -117,22 +123,17 @@ What's it's demeanor?
 
 </blockquote>
 
-Our AFC opinion on this topic
+<blockquote style="background: #96e58e;">
 
-<blockquote style="background: #D7F19F;">
+### Moses' Answer
 
-### AFC opinion
-
-If the problem is milk fever then avoid feeding it any high calcium salts during the dry period. If you are using salts then buy those that are specifically for dry cows.
+A simple way is to avoid giving fresh grass or fodder .. let the food weather 4 a day or so before feeding .. if it's open grazing dnt take your cows to the field early morning wait untill the dew has dried .. avoid also wet legumes
 <br></br>
-Do not feed dry cows excess legumes or alfalfa as they are high in calcium. Grass hay, silage, cereals and maizestalks are all low in calcium and safe to feed to dry cows.
-  <br></br>
-
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/app_icon-0fb0d555d213f16bad6cb8b5f754eed9-314ba.png" >
-    <b>Africa Farmers Club</b>
-    <div style="float: right;margin-top:0px;"> <b>31</b>
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/James_W-3006b86bbcbbccdb7b43254e85c76da4-a9e6a.jpg" >
+    <b>Moses K</b>
+    <div style="float: right;margin-top:0px;"> <b>26</b>
       <a href = "#">
         <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
       </a>
@@ -141,52 +142,53 @@ Do not feed dry cows excess legumes or alfalfa as they are high in calcium. Gras
 
 </blockquote>
 
-It is key for farmers to understand the **stages of milk fever**...
-
-![unsplash.com](./milk_fever_stages.png)
+Since bloat is important to recognise early, read some more expert tips below on how to identify the stages of bloat...
 
 <blockquote style="background: #D7F19F;">
 
-### The stages of milk fever
+  ### The stages of bloat in cows
 
-First 1 hour of milk fever: Standing but wobbly or twitching. Loss of appetite. Cold ears, dry mouth.
-<br></br>
-Next 1-12 hours of milk fever: Down on chest and drowsy
-<br></br>
-After 12 hours of milk fever: Down on side and unresponsive
-
-  <br></br>
-
-  <div>
-    Source:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/ILRI-logo-7ea55c4dbab6463d38e7fa23bf5fa02c-314ba.png" >
-    <b>ILRI</b>
-    <div style="float: right;margin-top:0px;"> <b>7</b>
-      <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
-      </a>
+   <div>
+    <img style="width: 100%" src="https://acresofdata.com/wp-content/uploads/2018/04/milk_fever_story-aaa829c6d98f7f8ece074398948a1089-7c7d1.png" >
     </div>
+
+  1. Mild bloat - a swelling on the left side behind the rib cage
+
+  2. Moderate bloat - a larger swelling and cow is uncomfortable
+
+  3. Severe bloat - cow has difficulty breathing, sometimes green froth comes out of the mouth or there is mild diarrhoea.
+
+  4. The animal will collapse and lie on its side with its head stretched out
+<br></br>
+
+<div>
+  Source:
+  <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/app_icon-0fb0d555d213f16bad6cb8b5f754eed9-314ba.png" >
+  <b>IRLI + AFC</b>
+  <div style="float: right;margin-top:0px;"> <b>38</b>
+    <a href = "#">
+      <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+    </a>
   </div>
+</div>
 
 </blockquote>
 
 ### Top Q&A from AFC members
 
-Philip asked a key question relevant to many farmers...
+It's useful to read up on Q&A from other farmers who have asked vets for advice on this issue...
 
 <blockquote style="background: #6EA6A2;">
 
-  ### Philip's Question
+  ### Caroh's Question
 
-  I am a vet and often meets pregnant cows that will go down at almost eight months with poor response to calciject administration, who has handled the same and came up with good results?
-
+  My 8 month calf has a bloated stomach and very restless. My doc can't be reached he is in church. Need ur help.
   <br></br>
-
   <div>
     Posted by:
     <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Philip_M-5c899ab79e448d0246fbed314274fbad-a9e6a.jpg" >
-    <b>Philip M</b>
-    <div style="float: right;margin-top:0px;"> <b>10</b>
+    <b>Caroh K</b>
+    <div style="float: right;margin-top:0px;"> <b>16</b>
       <a href = "#">
         <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
       </a>
@@ -195,22 +197,25 @@ Philip asked a key question relevant to many farmers...
 
 </blockquote>
 
-A top answer we've selected comes from Sammi...
+A top answer we've selected comes from McAduwa...
 
 <blockquote style="background: #96e58e;">
 
-### Sammi's Answer
+### McAduwa's Answer
 
-Milk fever aproach depends on its stage.The amount to inject i.v depends on the live weight of the cow to avoid calcium poisoning
-<br></br>
-At 1st stage oral calcium like animatic calcium from osho chemicals 100mls per day plus a good D.C.P helps.
+* 1.Give the animal antibloat (Stop Bloat) orally
+
+* 2.Give Epsom salt (Magnesium sulphate)
+
+* 3.Excercise the animal (move the animal along)
+Using Troca and Canula is the last option.
   <br></br>
 
   <div>
     Posted by:
     <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Sammi_M-6b5b48db37db3abec0c7c56f2ec96f46-a9e6a.jpg" >
-    <b>Sammi M</b>
-    <div style="float: right;margin-top:0px;"> <b>26</b>
+    <b>McAduwa G</b>
+    <div style="float: right;margin-top:0px;"> <b>40</b>
       <a href = "#">
         <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
       </a>
@@ -219,20 +224,49 @@ At 1st stage oral calcium like animatic calcium from osho chemicals 100mls per d
 
 </blockquote>
 
-Consider oral calcium...
+It is good to be prepared in case of issues...
 
 <blockquote style="background: #D7F19F;">
 
 ### AFC opinion
 
-1 in 3 cows who get a calcium injection for milk fever will relapse in the following hours or days. Using oral calcium after the injection can reduce the chance of a relapse by 60%.
+It's a good idea to have an emergency kit ready in case of bloat as cows can die within 1-4 hours of first showing signs. The emergency kit should contain antibloat medicine and a trocar and cannula. You should be able to get these from your local agrovet.
   <br></br>
 
   <div>
     Posted by:
     <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/app_icon-0fb0d555d213f16bad6cb8b5f754eed9-314ba.png" >
     <b>Africa Farmers Club</b>
-    <div style="float: right;margin-top:0px;"> <b>26</b>
+    <div style="float: right;margin-top:0px;"> <b>21</b>
+      <a href = "#">
+        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+      </a>
+    </div>
+  </div>
+
+</blockquote>
+
+### Expert opinion
+
+<blockquote style="background: #D7F19F;">
+
+### Treating with a Trocar and Cannula
+
+  <div>
+  <img style="width: 100%" src="https://acresofdata.com/wp-content/uploads/2018/04/milk_fever_story-aaa829c6d98f7f8ece074398948a1089-7c7d1.png" >
+  </div>
+<br></br>
+When the bloat is very severe, cows are treated by puncturing the rumen and allowing the gas to escape. It is always better to call a trained vet and get them to do this for you. If you cannot find a vet quickly enough, it may be necessary to do this yourself.
+<br></br>
+Use a trocar and cannula to puncture the skin where the swelling is located (see diagram above). If you don't have a trocar and cannula then you can use another sterilised sharp object such as a nail, needle or knife.
+<br></br>
+Push hard at the distended abdomen to let the gas out. It is advisable to put a tube into the hole to keep it open. When the tube is removed, the hole should close on its own.
+<br></br>
+  <div>
+    Source:
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/ILRI-logo-7ea55c4dbab6463d38e7fa23bf5fa02c-314ba.png" >
+    <b>ILRI</b>
+    <div style="float: right;margin-top:0px;"> <b>33</b>
       <a href = "#">
         <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
       </a>
@@ -243,28 +277,24 @@ Consider oral calcium...
 
 ### Real Farmer Stories
 
-Betty's experience with Milk fever...
+Is “Cut ,Carry and Feed” causing issues in Nyandarua county?
 
 <blockquote style="background: #96e58e;">
 
-  <div>
-  <img style="width: 100%" src="https://acresofdata.com/wp-content/uploads/2018/04/milk_fever_story-aaa829c6d98f7f8ece074398948a1089-7c7d1.png" >
-  </div>
+### The risks of cut, carry and feed
 
-  <br></br>
-  
-  "What a Miracle working God!!!!! Finally the cow has risen up."
+"Dairy cows are dying at a higher rate in Nyandarua county,the farmers claim its the way they are feeding their animals currently ,that is "Cut ,Carry and Feed" fresh and moist weeds from the farm. We need to learn and educate our farmers to have a proper feed plan to avoid what's happening currently."
 
-  <a href = "https://www.facebook.com/groups/DairyFarmingKenya/permalink/1569562173106725/">
-    <img style="height:2em; border-radius: 2em;border: 1px solid #ffff;" src="https://africafarmersclub.com/static/read_full_story-0cc65f007b012ef58d53aa25ee67925f-314ba.png" >
+  <a href = "https://www.facebook.com/groups/DairyFarmingKenya/permalink/1482663608463249/">
+    <img style="height:2em; border-radius: 2em;border: 1px solid #ffff;" src="https://acresofdata.com/wp-content/uploads/2018/04/read_full_story.png" >
   </a>
   <br></br>
 
   <div>
     Posted by:
     <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Betty-4861b8881c5b279aa496f7dabf3227b4-a9e6a.jpg" >
-    <b>Betty K</b>
-    <div style="float: right;margin-top:0px;"> <b>49</b>
+    <b>Suzy J</b>
+    <div style="float: right;margin-top:0px;"> <b>24</b>
       <a href = "#">
         <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
       </a>
@@ -272,7 +302,6 @@ Betty's experience with Milk fever...
   </div>
 
 </blockquote>
-
 
 
 ---

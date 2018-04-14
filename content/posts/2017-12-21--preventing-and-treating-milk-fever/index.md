@@ -256,7 +256,7 @@ Betty's experience with Milk fever...
   "What a Miracle working God!!!!! Finally the cow has risen up."
 
   <a href = "https://www.facebook.com/groups/DairyFarmingKenya/permalink/1569562173106725/">
-    <img style="height:2em; border-radius: 2em;border: 1px solid #ffff;" src="https://acresofdata.com/wp-content/uploads/2018/04/read_full_story.png" >
+    <img style="height:2em; border-radius: 2em;border: 1px solid #ffff;" src="http://acresofdata.com/wp-content/uploads/2018/04/read_full_story.png" >
   </a>
   <br></br>
 
