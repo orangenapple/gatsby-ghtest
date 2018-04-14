@@ -5,17 +5,6 @@ category: "milk fever"
 cover: bloat_1.jpg
 ---
 
-<img src="./bloat_1.jpg" >
-<img src="./bloat_rumen_diagram.png" >
-<img src="./bloat_stages.png" >
-<img src="./caroh_k.jpg" >
-<img src="./halbe_k.jpg" >
-<img src="./jarius_b.jpg" >
-<img src="./mcaduwa_g.jpg" >
-<img src="./moses_k.jpg" >
-<img src="./suzy_j.jpg" >
-
-
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://africafarmersclub.com/static/comment_icon-fd465a3a52da53f109d439f079d19bf5-08634.png" >  in bottom corner 👇</p>
 </blockquote>
@@ -27,7 +16,7 @@ cover: bloat_1.jpg
 <br></br>
 Bloat can be dangerous. If not treated in time it can kill your cow...
 
-![](bloat_1.jpg)
+<img style="width: 100%" src="https://africafarmersclub.com/static/bloat_1-bbee2d927ef1e8b58239bbb31348e4e5-925b4.jpg" >
 
 <blockquote style="background: #D7F19F;">
 
@@ -89,7 +78,7 @@ This is an issue that has affected our members. Those affected, like Jairus, ask
   <br></br>
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Franche-f7779173731418dab96e2b976ca3b35d-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/jarius_b-c47a684d6e12ebb323b30f4834207688-a9e6a.jpg" >
     <b>Jairus B</b>
     <div style="float: right;margin-top:0px;"> <b>27</b>
       <a href = "#">
@@ -112,7 +101,7 @@ Dutch cows do not do that, because they are fed 24/7. So when they go out for gr
 <br></br>
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/James_W-3006b86bbcbbccdb7b43254e85c76da4-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/halbe_k-44cc9c18b18451697405d09928839c47-a9e6a.jpg" >
     <b>Halbe K</b>
     <div style="float: right;margin-top:0px;"> <b>44</b>
       <a href = "#">
@@ -131,7 +120,7 @@ A simple way is to avoid giving fresh grass or fodder .. let the food weather 4 
 <br></br>
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/James_W-3006b86bbcbbccdb7b43254e85c76da4-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/moses_k-3cd86117ba6078e39803bdb246aea96b-a9e6a.jpg" >
     <b>Moses K</b>
     <div style="float: right;margin-top:0px;"> <b>26</b>
       <a href = "#">
@@ -149,7 +138,7 @@ Since bloat is important to recognise early, read some more expert tips below on
   ### The stages of bloat in cows
 
    <div>
-    <img style="width: 100%" src="https://acresofdata.com/wp-content/uploads/2018/04/milk_fever_story-aaa829c6d98f7f8ece074398948a1089-7c7d1.png" >
+    <img style="width: 100%" src="https://africafarmersclub.com/static/bloat_stages-3d2d17e2abe3669d7894d2c9434b2352-edd43.png" >
     </div>
 
   1. Mild bloat - a swelling on the left side behind the rib cage
@@ -186,7 +175,7 @@ It's useful to read up on Q&A from other farmers who have asked vets for advice 
   <br></br>
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Philip_M-5c899ab79e448d0246fbed314274fbad-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/caroh_k-e68027352bd99325a82cb8baf12ec15f-a9e6a.jpg" >
     <b>Caroh K</b>
     <div style="float: right;margin-top:0px;"> <b>16</b>
       <a href = "#">
@@ -213,7 +202,7 @@ Using Troca and Canula is the last option.
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Sammi_M-6b5b48db37db3abec0c7c56f2ec96f46-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/mcaduwa_g-942216eb7e5b9b03bfa34b1e26a8ef73-a9e6a.jpg" >
     <b>McAduwa G</b>
     <div style="float: right;margin-top:0px;"> <b>40</b>
       <a href = "#">
@@ -253,7 +242,7 @@ It's a good idea to have an emergency kit ready in case of bloat as cows can die
 ### Treating with a Trocar and Cannula
 
   <div>
-  <img style="width: 100%" src="https://acresofdata.com/wp-content/uploads/2018/04/milk_fever_story-aaa829c6d98f7f8ece074398948a1089-7c7d1.png" >
+  <img style="width: 100%" src="https://africafarmersclub.com/static/bloat_rumen_diagram-b957751f741f5a347286905ce962aee6-edd43.png" >
   </div>
 <br></br>
 When the bloat is very severe, cows are treated by puncturing the rumen and allowing the gas to escape. It is always better to call a trained vet and get them to do this for you. If you cannot find a vet quickly enough, it may be necessary to do this yourself.
@@ -292,7 +281,7 @@ Is “Cut ,Carry and Feed” causing issues in Nyandarua county?
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Betty-4861b8881c5b279aa496f7dabf3227b4-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/suzy_j-de8207ca3acbbb644c612cafc1cdff7d-a9e6a.jpg" >
     <b>Suzy J</b>
     <div style="float: right;margin-top:0px;"> <b>24</b>
       <a href = "#">
