@@ -10,7 +10,7 @@ cover: bloat_1.jpg
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 
 <br></br>
@@ -225,7 +225,7 @@ It's a good idea to have an emergency kit ready in case of bloat as cows can die
   <div>
     Posted by:
     <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/afc_logo.png" >
-    <b>Africa Farmers Club</b>
+    <b>AFC</b>
     <div style="float: right;margin-top:0px;"> <b>21</b>
       <a href = "#">
         <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >

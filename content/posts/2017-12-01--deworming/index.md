@@ -9,7 +9,7 @@ cover: lock-deworming.png
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 Dairy farmers can do much to ensure their stock remain healthy and productive. Deworming and vaccinations are a key part of that process...

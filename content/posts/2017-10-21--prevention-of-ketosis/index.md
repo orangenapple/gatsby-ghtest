@@ -9,7 +9,7 @@ cover: lock-prevention-of-ketosis.png
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 Ketosis is a metabolic disorder in cattle associated with inadequate supply of nutrients necessary for normal carbohydrate and fat metabolism. It is mainly seen in times of high milk production in early lactation. Ketosis causes financial loss through lost production and treatment...

@@ -9,7 +9,7 @@ cover: lock-increasing-milk-production.png
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 It's a question that every dairy farmer asks again and again. We explore this important topic even further in this second part...

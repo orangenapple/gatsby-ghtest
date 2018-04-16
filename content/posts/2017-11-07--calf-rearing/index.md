@@ -9,7 +9,7 @@ cover: lock-calf-rearing.png
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 The calf is the foundation of the future dairy herd. That's why calf rearing is important. A good feeding and management programme is crucial. We look at the key components in this topic...

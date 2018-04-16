@@ -9,7 +9,7 @@ cover: feeding-your-cow-basics.png
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 
@@ -49,7 +49,7 @@ Bulk forage (e.g. grass, hay) is the majority of what a dairy cow eats. To produ
 Bulk forages range in their quality (see below). The more you feed your cows on low quality forage, the more you will need to supplement their diet with supplementary forages or concentrates.
 <br></br>
 <div style="text-align: center">
-<a href="/about"><img style="width:80%; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/dairytrial_guide_feeding_forages.png" ></a>
+<a href="/about"><img style="width:90%; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/dairytrial_guide_feeding_forages.png" ></a>
 </div>
 
 <br></br>
@@ -147,7 +147,7 @@ Dairy meal is commonly used by dairy farmers as a concentrate. However, other fa
 
 <br></br>
 <div style="text-align: center">
-<a href="/about"><img style="width:80%; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/dairytrial_guide_feeding_concentrates.png" ></a>
+<a href="/about"><img style="width:90%; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/dairytrial_guide_feeding_concentrates.png" ></a>
 </div>
 
 <br></br>
@@ -178,7 +178,7 @@ If you have access to supplementary forages on your land then this can be a good
 Be careful as feeding large amounts of some supplementary forages can cause bloat. Usually supplementary forages should not make up more than 25-30% of a cow’s daily diet.
 <br></br>
 <div style="text-align: center">
-<a href="/about"><img style="width:80%; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/dairytrial_guide_feeds_supplementaryforages.png" ></a>
+<a href="/about"><img style="width:90%; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/dairytrial_guide_feeds_supplementaryforages.png" ></a>
 </div>
 
 <br></br>

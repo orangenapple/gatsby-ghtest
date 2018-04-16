@@ -5,11 +5,11 @@ category: "getting started"
 cover: lock-understanding-breeds.png
 ---
 <blockquote style="background: #f2f3f4;">
-<p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://africafarmersclub.com/static/comment_icon-fd465a3a52da53f109d439f079d19bf5-08634.png" >  in bottom corner 👇</p>
+<p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://africafarmersclub.com/static/key_bar-1-9b2f19aba3eb597319aeb514f4c1239f-8284c.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 There are very many dairy cattle breeds. However, there are a few common breeds in Kenya that we will go over here so you understand the key differences between them...

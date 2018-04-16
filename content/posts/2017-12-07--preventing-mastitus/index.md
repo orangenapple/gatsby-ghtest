@@ -9,7 +9,7 @@ cover: lock-preventing-mastitus.png
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://africafarmersclub.com/static/key_bar-1-9b2f19aba3eb597319aeb514f4c1239f-8284c.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 Mastitis is a potentially fatal mammary gland infection. It is one of the most costly issues in the dairy industry. In this post we discuss how to identify and handle the issue...

@@ -9,7 +9,7 @@ cover: lock-heifer-rearing.png
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 Most farmers sell males calves at an early age while the females are reared as dairy replacement heifers for the herd or as heifers for sale. Heifers represent the future of the herd. We detail the best strategies for heifer rearing in this topic...

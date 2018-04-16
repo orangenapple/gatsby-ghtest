@@ -9,7 +9,7 @@ cover: lock-sleeping-sickness.png
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 Trypanosomiasis (more commonly known as 'sleeping sickness') causes serious losses among domestic animals either through sickness, slow growth, abortion or death...

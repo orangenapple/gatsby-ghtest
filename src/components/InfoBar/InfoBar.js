@@ -35,7 +35,7 @@ const styles = theme => ({
   },
   title: {
     float: "left",
-    margin: "10px 0 0 15px",
+    margin: "10px 0 0 10px",
     color: theme.bars.colors.text,
     "& small": {
       display: "block",
@@ -46,12 +46,12 @@ const styles = theme => ({
   avatarLink: {
     display: "block",
     float: "left",
-    margin: "13px 0 0 30px"
+    margin: "10px 0 0 10px"
   },
   avatar: {
-    width: "156px",
+    width: "132px",
     borderRadius: "10px",
-    border: "2px solid #ddd",
+    border: "1.5px solid #ddd",
     height: "36px"
   }
 });

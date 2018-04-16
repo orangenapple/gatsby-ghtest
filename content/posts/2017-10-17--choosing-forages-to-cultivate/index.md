@@ -9,7 +9,7 @@ cover: lock-choosing-forages-to-cultivate.png
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 Livestock feed is the second- highest cost for most dairy farmers, after the cost of purchasing cattle. These costs make it harder to profit from selling milk. A cost-effective approach for feeding dairy cattle is cultivating forage crops on your farm. This enables a farmer to supply feed for much less than it would cost to buy the same quality feed at market...

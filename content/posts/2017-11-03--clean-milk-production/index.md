@@ -9,7 +9,7 @@ cover: lock-clean-milk-production.png
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 All of the time, money and effort that a farmer spends on helping cows produce high-quality milk will be wasted if the milk is contaminated during the milking process or while the milk is transported to market. This topic details best practices to stop contamination which can lead to loss of income...

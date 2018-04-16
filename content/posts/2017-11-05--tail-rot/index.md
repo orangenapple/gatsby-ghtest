@@ -9,7 +9,7 @@ cover: lock-tail-rot.png
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 The overall prevalence of tail rot is low. This means research to better understand and manage it has been a low priority. However, cattle with shortened tails are not acceptable in some livestock markets and in years where the problem is significant tail rot may cause some financial costs...

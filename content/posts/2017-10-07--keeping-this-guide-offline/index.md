@@ -9,7 +9,7 @@ cover: keep-offline.png
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
+<a href="/about"><img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
 We know that data connectivity can sometimes be a challenge on the farm. This guide has been designed so farmers can download it to their phone screen, just like an app.
