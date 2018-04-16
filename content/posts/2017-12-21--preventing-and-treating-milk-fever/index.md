@@ -1,7 +1,7 @@
 ---
 title: Preventing and Treating Milk Fever
-subTitle: Top tips from AFC
-category: "milk fever"
+subTitle: Disease & animal health
+category: "disease & animal health"
 cover: milk_fever_cow.png
 ---
 
@@ -252,7 +252,7 @@ Betty's experience with Milk fever...
   </div>
 
   <br></br>
-  
+
   "What a Miracle working God!!!!! Finally the cow has risen up."
 
   <a href = "https://www.facebook.com/groups/DairyFarmingKenya/permalink/1569562173106725/">

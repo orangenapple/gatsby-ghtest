@@ -1,8 +1,8 @@
 ---
-title: 🔒 East Coast Fever Disease
-subTitle: Disease & animal health
-category: "disease & animal health"
-cover: locked-ecf.png
+title: 🔒 Feeding Milking Cows
+subTitle: Feeding
+category: "feeding"
+cover: lock-feeding-milking-cows.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://africafarmersclub.com/static/comment_icon-fd465a3a52da53f109d439f079d19bf5-08634.png" >  in bottom corner 👇</p>
@@ -12,7 +12,7 @@ cover: locked-ecf.png
 <a href="/about"><img style="height:3em;" src="https://africafarmersclub.com/static/key_bar-1-9b2f19aba3eb597319aeb514f4c1239f-8284c.png" ></a>
 </div>
 <br></br>
-As of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992...
+For a healthy and productive cow, feed rations should have a balance of quantity, quality, amounts of concentrates, protein, mineral and vitamins...
 <br></br>
 
 ![](./unlock_this.png)
