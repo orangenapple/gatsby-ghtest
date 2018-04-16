@@ -25,8 +25,8 @@ There are very many dairy cattle breeds. However, there are a few common breeds 
 ### Read more topics
 There are number of other important topics in this guide:
 
-* [Preventing and treating milk fever](/about) ⭐ - Guidance on milk fever issues
-* [How to feed your cow - part 1](/about)  ⭐- Know best feeds for production
-* [How to feed your cow - part 2](/about)  🔒- Know best feeds for production
+* [Preventing and treating milk fever](/preventing-and-treating-milk-fever) ⭐ - Guidance on milk fever issues
+* [Feeding your cows - basics](/feeding-your-cow-basics)  ⭐- Understand the basics of feeding
+* [Feeding milking cows](/feeding-milking-cows)  🔒- Know best feeds for milking cows
 
 ...or you can just [see all topics](/)

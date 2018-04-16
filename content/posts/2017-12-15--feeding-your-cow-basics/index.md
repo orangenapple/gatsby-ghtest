@@ -1,7 +1,7 @@
 ---
-title: Feeding your cow - basics
+title: Feeding your cow - Basics
 subTitle: Feeding
-category: "Feeding"
+category: "feeding"
 cover: feeding-your-cow-basics.png
 ---
 <blockquote style="background: #f2f3f4;">
@@ -13,7 +13,7 @@ cover: feeding-your-cow-basics.png
 </div>
 <br></br>
 
-This is part one of our series on how to feed dairy cattle. Cow nutrition is a complicated subject as the right feed will depend on what is locally available and what stage your cow is in. 
+This is part one of our series on how to feed dairy cattle. Cow nutrition is a complicated subject as the right feed will depend on what is locally available and what stage your cow is in.
 
 In this chapter we explain the **basics of feeding your cows** for maximum profitability.
 
@@ -21,7 +21,7 @@ In this chapter we explain the **basics of feeding your cows** for maximum profi
 
 ### Getting back to basics
 
-The challenge for dairy farmers is to put together a diet for their cattle, using feeds that are readily available, that supplies all the animals’ nutritional requirements, does not cause any health problems, enables the cow to produce as much milk as possible - and to do all this in the most cost-effective way. 
+The challenge for dairy farmers is to put together a diet for their cattle, using feeds that are readily available, that supplies all the animals’ nutritional requirements, does not cause any health problems, enables the cow to produce as much milk as possible - and to do all this in the most cost-effective way.
 
 <br></br>
 
@@ -173,7 +173,7 @@ It's also good for farmers to understand the function of supplementary forages..
 
 Supplementary forages can be used in two ways: either to compensate for poor quality bulk forages or instead of concentrates. For example three kilograms of fresh calliandra can replace one kilogram of commercial dairy meal.
 <br></br>
-If you have access to supplementary forages on your land then this can be a good way to save money on things like commercial dairy meal. 
+If you have access to supplementary forages on your land then this can be a good way to save money on things like commercial dairy meal.
 <br></br>
 Be careful as feeding large amounts of some supplementary forages can cause bloat. Usually supplementary forages should not make up more than 25-30% of a cow’s daily diet.
 <br></br>

@@ -1,8 +1,8 @@
 ---
-title: 🔒 East Coast Fever Disease
-subTitle: Disease & animal health
-category: "disease & animal health"
-cover: locked-ecf.png
+title: 🔒 Keeping records
+subTitle: Getting started
+category: "getting started"
+cover: lock-keeping-records.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -12,7 +12,19 @@ cover: locked-ecf.png
 <a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
-As of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992...
+
+For a successful operation of a dairy enterprise the following records should be kept:
+
+* Pedigree and numbers of each animal kept on the farm
+* dates of heat periods
+* breeding
+* pregnancy checks
+* bulls used
+* animal health records (deworming & vaccinations)
+* performance records for milk production
+* growth rates
+
+Ideas for how to keep good records in these areas are discussed here...
 <br></br>
 
 ![](./unlock_this.png)

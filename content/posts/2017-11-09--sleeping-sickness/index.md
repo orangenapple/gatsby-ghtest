@@ -1,8 +1,8 @@
 ---
-title: 🔒 East Coast Fever Disease
+title: 🔒 Sleeping sickness
 subTitle: Disease & animal health
 category: "disease & animal health"
-cover: locked-ecf.png
+cover: lock-sleeping-sickness.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -12,7 +12,7 @@ cover: locked-ecf.png
 <a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
-As of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992...
+Trypanosomiasis (more commonly known as 'sleeping sickness') causes serious losses among domestic animals either through sickness, slow growth, abortion or death...
 <br></br>
 
 ![](./unlock_this.png)

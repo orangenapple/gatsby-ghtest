@@ -6,17 +6,17 @@ cover: bloat_1.jpg
 ---
 
 <blockquote style="background: #f2f3f4;">
-<p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://africafarmersclub.com/static/comment_icon-fd465a3a52da53f109d439f079d19bf5-08634.png" >  in bottom corner 👇</p>
+<p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://africafarmersclub.com/static/key_bar-1-9b2f19aba3eb597319aeb514f4c1239f-8284c.png" ></a>
+<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 
 <br></br>
 Bloat can be dangerous. If not treated in time it can kill your cow...
 
-<img style="width: 100%" src="https://africafarmersclub.com/static/bloat_1-bbee2d927ef1e8b58239bbb31348e4e5-925b4.jpg" >
+![](./bloat_1.jpg)
 
 <blockquote style="background: #D7F19F;">
 
@@ -30,11 +30,11 @@ It is important to monitor your cows for bloat as it can kill within a few hours
 
   <div>
     Source:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/ILRI-logo-7ea55c4dbab6463d38e7fa23bf5fa02c-314ba.png" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png" >
     <b>ILRI</b>
     <div style="float: right;margin-top:0px;"> <b>33</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -55,11 +55,11 @@ Gassy bloat can be caused by the food pipe being blocked so the cow cannot belch
 
   <div>
     Source:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/ILRI-logo-7ea55c4dbab6463d38e7fa23bf5fa02c-314ba.png" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png" >
     <b>ILRI</b>
     <div style="float: right;margin-top:0px;"> <b>12</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -78,11 +78,11 @@ This is an issue that has affected our members. Those affected, like Jairus, ask
   <br></br>
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/jarius_b-c47a684d6e12ebb323b30f4834207688-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/jarius_b.jpg" >
     <b>Jairus B</b>
     <div style="float: right;margin-top:0px;"> <b>27</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -101,11 +101,11 @@ Dutch cows do not do that, because they are fed 24/7. So when they go out for gr
 <br></br>
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/halbe_k-44cc9c18b18451697405d09928839c47-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/halbe_k.jpg" >
     <b>Halbe K</b>
     <div style="float: right;margin-top:0px;"> <b>44</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -120,11 +120,11 @@ A simple way is to avoid giving fresh grass or fodder .. let the food weather 4 
 <br></br>
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/moses_k-3cd86117ba6078e39803bdb246aea96b-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/moses_k.jpg" >
     <b>Moses K</b>
     <div style="float: right;margin-top:0px;"> <b>26</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -138,7 +138,7 @@ Since bloat is important to recognise early, read some more expert tips below on
   ### The stages of bloat in cows
 
    <div>
-    <img style="width: 100%" src="https://africafarmersclub.com/static/bloat_stages-3d2d17e2abe3669d7894d2c9434b2352-edd43.png" >
+    <img style="width: 100%" src="https://s3.amazonaws.com/afc-dairytrial/bloat_stages.png" >
     </div>
 
   1. Mild bloat - a swelling on the left side behind the rib cage
@@ -152,11 +152,11 @@ Since bloat is important to recognise early, read some more expert tips below on
 
 <div>
   Source:
-  <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/app_icon-0fb0d555d213f16bad6cb8b5f754eed9-314ba.png" >
+  <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/afc_logo.png" >
   <b>IRLI + AFC</b>
   <div style="float: right;margin-top:0px;"> <b>38</b>
     <a href = "#">
-      <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+      <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
     </a>
   </div>
 </div>
@@ -175,11 +175,11 @@ It's useful to read up on Q&A from other farmers who have asked vets for advice 
   <br></br>
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/caroh_k-e68027352bd99325a82cb8baf12ec15f-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/caroh_k.jpg" >
     <b>Caroh K</b>
     <div style="float: right;margin-top:0px;"> <b>16</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -202,11 +202,11 @@ Using Troca and Canula is the last option.
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/mcaduwa_g-942216eb7e5b9b03bfa34b1e26a8ef73-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/mcaduwa_g.jpg" >
     <b>McAduwa G</b>
     <div style="float: right;margin-top:0px;"> <b>40</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -224,11 +224,11 @@ It's a good idea to have an emergency kit ready in case of bloat as cows can die
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/app_icon-0fb0d555d213f16bad6cb8b5f754eed9-314ba.png" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/afc_logo.png" >
     <b>Africa Farmers Club</b>
     <div style="float: right;margin-top:0px;"> <b>21</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -242,7 +242,7 @@ It's a good idea to have an emergency kit ready in case of bloat as cows can die
 ### Treating with a Trocar and Cannula
 
   <div>
-  <img style="width: 100%" src="https://africafarmersclub.com/static/bloat_rumen_diagram-b957751f741f5a347286905ce962aee6-edd43.png" >
+  <img style="width: 100%" src="https://s3.amazonaws.com/afc-dairytrial/bloat_rumen_diagram.png" >
   </div>
 <br></br>
 When the bloat is very severe, cows are treated by puncturing the rumen and allowing the gas to escape. It is always better to call a trained vet and get them to do this for you. If you cannot find a vet quickly enough, it may be necessary to do this yourself.
@@ -253,11 +253,11 @@ Push hard at the distended abdomen to let the gas out. It is advisable to put a 
 <br></br>
   <div>
     Source:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/ILRI-logo-7ea55c4dbab6463d38e7fa23bf5fa02c-314ba.png" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png" >
     <b>ILRI</b>
     <div style="float: right;margin-top:0px;"> <b>33</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -275,17 +275,17 @@ Is “Cut ,Carry and Feed” causing issues in Nyandarua county?
 "Dairy cows are dying at a higher rate in Nyandarua county,the farmers claim its the way they are feeding their animals currently ,that is "Cut ,Carry and Feed" fresh and moist weeds from the farm. We need to learn and educate our farmers to have a proper feed plan to avoid what's happening currently."
 
   <a href = "https://www.facebook.com/groups/DairyFarmingKenya/permalink/1482663608463249/">
-    <img style="height:2em; border-radius: 2em;border: 1px solid #ffff;" src="https://acresofdata.com/wp-content/uploads/2018/04/read_full_story.png" >
+    <img style="height:2em; border-radius: 2em;border: 1px solid #ffff;" src="https://s3.amazonaws.com/afc-dairytrial/read_full_story.png" >
   </a>
   <br></br>
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/suzy_j-de8207ca3acbbb644c612cafc1cdff7d-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/suzy_j.jpg" >
     <b>Suzy J</b>
     <div style="float: right;margin-top:0px;"> <b>24</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -298,6 +298,6 @@ Is “Cut ,Carry and Feed” causing issues in Nyandarua county?
 ### Read more topics
 There are number of other important topics in this guide:
 
-* [Milk Fever Part 2](/about) ⭐ - More guidance on milk fever
-* [ECF Disease](/about)  ⭐- Know what to look out for
-* [Advice on market prices](/about)  ⭐- Market data on on sales in Kenya
+* [Feeding your cow - Basics](/feeding-your-cow-basics) ⭐ - How to get started with feeding
+* [Preventing and Treating Milk Fever](/preventing-and-treating-milk-fever)  ⭐- Know what to look out for
+* [Getting better prices](/getting-better-prices)  ⭐- Market data on on sales in Kenya

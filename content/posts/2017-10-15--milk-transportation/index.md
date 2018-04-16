@@ -1,8 +1,8 @@
 ---
-title: 🔒 East Coast Fever Disease
-subTitle: Disease & animal health
-category: "disease & animal health"
-cover: locked-ecf.png
+title: 🔒 Milk Transportation
+subTitle: Getting started
+category: "getting started"
+cover: lock-milk-transportation.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -12,7 +12,9 @@ cover: locked-ecf.png
 <a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
-As of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992...
+The best option for collecting, storing and transporting milk is the 10-litre “Mazzi” can.
+
+Mazzi cans are a new, improved type of milk container designed specifically to prevent spoilage. If Mazzi containers are not available in your area, use seamless aluminium or stainless steel cans for milking and storing milk...
 <br></br>
 
 ![](./unlock_this.png)

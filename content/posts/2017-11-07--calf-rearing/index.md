@@ -1,8 +1,8 @@
 ---
-title: 🔒 East Coast Fever Disease
-subTitle: Disease & animal health
-category: "disease & animal health"
-cover: locked-ecf.png
+title: 🔒 Calf Rearing
+subTitle: Animal rearing
+category: "animal rearing"
+cover: lock-calf-rearing.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -12,7 +12,7 @@ cover: locked-ecf.png
 <a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
-As of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992...
+The calf is the foundation of the future dairy herd. That's why calf rearing is important. A good feeding and management programme is crucial. We look at the key components in this topic...
 <br></br>
 
 ![](./unlock_this.png)

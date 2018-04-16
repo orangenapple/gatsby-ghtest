@@ -1,8 +1,8 @@
 ---
-title: 🔒 East Coast Fever Disease
+title: 🔒 Sore Mouth
 subTitle: Disease & animal health
 category: "disease & animal health"
-cover: locked-ecf.png
+cover: lock-sore-mouth.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -12,7 +12,7 @@ cover: locked-ecf.png
 <a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 <br></br>
-As of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992...
+Foot-and-mouth disease (FMD) is a highly contagious and sometimes fatal viral disease. FMD can be confused with similar but less harmful diseases, including sore mouth. Except in rare cases, animals recover completely from sore mouth infections within a month...
 <br></br>
 
 ![](./unlock_this.png)

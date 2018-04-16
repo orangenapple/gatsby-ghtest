@@ -6,11 +6,11 @@ cover: milk_fever_cow.png
 ---
 
 <blockquote style="background: #f2f3f4;">
-<p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://africafarmersclub.com/static/comment_icon-fd465a3a52da53f109d439f079d19bf5-08634.png" >  in bottom corner 👇</p>
+<p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
 </blockquote>
 
 <div style="text-align: center">
-<a href="/about"><img style="height:3em;" src="https://africafarmersclub.com/static/key_bar-1-9b2f19aba3eb597319aeb514f4c1239f-8284c.png" ></a>
+<a href="/about"><img style="height:3em;" src="https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png" ></a>
 </div>
 
 <br></br>
@@ -28,11 +28,11 @@ Most cases occur between 48 hours before calving and 72 hours after calving. Mil
 
   <div>
     Source:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/ILRI-logo-7ea55c4dbab6463d38e7fa23bf5fa02c-314ba.png" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png" >
     <b>ILRI</b>
     <div style="float: right;margin-top:0px;"> <b>21</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -55,11 +55,11 @@ The daily requirement of a 600kg pregnant dry cow is about 40 grams of calcium a
 
   <div>
     Source:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/ILRI-logo-7ea55c4dbab6463d38e7fa23bf5fa02c-314ba.png" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png" >
     <b>ILRI</b>
     <div style="float: right;margin-top:0px;"> <b>32</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -80,11 +80,11 @@ Franche asked a key question relevant to many farmers...
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Franche-f7779173731418dab96e2b976ca3b35d-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/Franche.jpg" >
     <b>Franche N</b>
     <div style="float: right;margin-top:0px;"> <b>12</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -106,11 +106,11 @@ What's it's demeanor?
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/James_W-3006b86bbcbbccdb7b43254e85c76da4-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/James_W.jpg" >
     <b>James W</b>
     <div style="float: right;margin-top:0px;"> <b>31</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -130,11 +130,11 @@ Do not feed dry cows excess legumes or alfalfa as they are high in calcium. Gras
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/app_icon-0fb0d555d213f16bad6cb8b5f754eed9-314ba.png" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/afc_logo.png" >
     <b>Africa Farmers Club</b>
     <div style="float: right;margin-top:0px;"> <b>31</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -159,11 +159,11 @@ After 12 hours of milk fever: Down on side and unresponsive
 
   <div>
     Source:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/ILRI-logo-7ea55c4dbab6463d38e7fa23bf5fa02c-314ba.png" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png" >
     <b>ILRI</b>
     <div style="float: right;margin-top:0px;"> <b>7</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -184,11 +184,11 @@ Philip asked a key question relevant to many farmers...
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Philip_M-5c899ab79e448d0246fbed314274fbad-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/Philip_M.jpg" >
     <b>Philip M</b>
     <div style="float: right;margin-top:0px;"> <b>10</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -208,11 +208,11 @@ At 1st stage oral calcium like animatic calcium from osho chemicals 100mls per d
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Sammi_M-6b5b48db37db3abec0c7c56f2ec96f46-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/Sammi_M.jpg" >
     <b>Sammi M</b>
     <div style="float: right;margin-top:0px;"> <b>26</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -230,11 +230,11 @@ Consider oral calcium...
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/app_icon-0fb0d555d213f16bad6cb8b5f754eed9-314ba.png" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/afc_logo.png" >
     <b>Africa Farmers Club</b>
     <div style="float: right;margin-top:0px;"> <b>26</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -248,7 +248,7 @@ Betty's experience with Milk fever...
 <blockquote style="background: #96e58e;">
 
   <div>
-  <img style="width: 100%" src="https://acresofdata.com/wp-content/uploads/2018/04/milk_fever_story-aaa829c6d98f7f8ece074398948a1089-7c7d1.png" >
+  <img style="width: 100%" src="https://s3.amazonaws.com/afc-dairytrial/milk_fever_story.png" >
   </div>
 
   <br></br>
@@ -256,17 +256,17 @@ Betty's experience with Milk fever...
   "What a Miracle working God!!!!! Finally the cow has risen up."
 
   <a href = "https://www.facebook.com/groups/DairyFarmingKenya/permalink/1569562173106725/">
-    <img style="height:2em; border-radius: 2em;border: 1px solid #ffff;" src="http://acresofdata.com/wp-content/uploads/2018/04/read_full_story.png" >
+    <img style="height:2em; border-radius: 2em;border: 1px solid #ffff;" src="https://s3.amazonaws.com/afc-dairytrial/read_full_story.png" >
   </a>
   <br></br>
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://africafarmersclub.com/static/Betty-4861b8881c5b279aa496f7dabf3227b4-a9e6a.jpg" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/Betty.jpg" >
     <b>Betty K</b>
     <div style="float: right;margin-top:0px;"> <b>49</b>
       <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://africafarmersclub.com/static/clap_btn-6849838fe1e7f50bc42cd95874eb79d7-39766.jpg" >
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
       </a>
     </div>
   </div>
@@ -274,12 +274,11 @@ Betty's experience with Milk fever...
 </blockquote>
 
 
-
 ---
 
 ### Read more topics
 There are number of other important topics in this guide:
 
-* [Milk Fever Part 2](/about) ⭐ - More guidance on milk fever
-* [ECF Disease](/about)  ⭐- Know what to look out for
-* [Advice on market prices](/about)  ⭐- Market data on on sales in Kenya
+* [Feeding your cow - Basics](/feeding-your-cow-basics) ⭐ - How to get started with feeding
+* [Preventing and Managing Bloat in Cows](/preventing-and-managing-bloat)  ⭐- Know what to look out for
+* [Increasing Milk Production - part 1](/increasing-milk-production-part-1)  ⭐- Tips on how to maximise production

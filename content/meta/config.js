@@ -10,13 +10,13 @@ module.exports = {
   siteLanguage: "en",
   // author
   authorName: "Africa Farmers Club",
-  authorTwitterAccount: "greglobinski",
+  authorTwitterAccount: "africafarmersclub",
   // info
   infoTitle: "Dairy Guide",
-  infoTitleNote: "Africa Farmers Club",
+  infoTitleNote: "AFC",
   // manifest.json
-  manifestName: "AfcGuide - guide for AFC members",
-  manifestShortName: "AfcGuide", // max 12 characters
+  manifestName: "Dairy Guide - for AFC members",
+  manifestShortName: "AFC-dairy", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.bg,
   manifestThemeColor: colors.bg,
