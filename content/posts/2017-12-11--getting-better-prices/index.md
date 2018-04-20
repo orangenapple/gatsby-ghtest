@@ -23,22 +23,23 @@ As a dairy farmer your concern will be how to get the best price. Anne asks the 
 
 <blockquote style="background: #6EA6A2;">
 
-  ### Anne's Question
+### Anne's Question
 
-  Hi farmers, lets talk about where our milk ends up. - Dairy Societies, milk bars, hotels, schools, industries etc. 
- <br></br>
-  What are the challenges and how can we help each other market our milk and maximize profits. Those with ideas of supply chains, how can we all benefit?
-  <br></br>
-  <div>
-    Posted by:
+Hi farmers, lets talk about where our milk ends up. - Dairy Societies, milk bars, hotels, schools, industries etc.
+<br></br>
+What are the challenges and how can we help each other market our milk and maximize profits. Those with ideas of supply chains, how can we all benefit?
+<br></br>
+
+<div>
+    Posted by: 
     <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/Anne-K2.png" >
     <b>Anne K</b>
     <div style="float: right;margin-top:0px;"> <b>76</b>
-      <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
-      </a>
+        <a href = "#">
+            <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
+        </a>
     </div>
-  </div>
+</div>
 
 </blockquote>
 
@@ -53,18 +54,18 @@ I make an effort to supply my co-op with all my milk but they can only have 2 co
 I have been working with co-ops and researching too. For a co-op to process ideally you need to have 20-25k kgs per day for it to make economic sense. 
 <br></br>
 Another angle is that we have too many co-ops in central and rift competing unnecessarily. Nyandarua county has realised this and their co-ops are bulking individually but they will be processing together. This works well for Meru Dairy which is a collection of 26 dairies
-    <br></br>
-      <div>
-        Posted by:
-        <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/stephen_k.jpg" >
-        <b>Stephen K</b>
-        <div style="float: right;margin-top:0px;"> <b>57</b>
-          <a href = "#">
+<br></br>
+<div>
+    Posted by:
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/stephen_k.jpg" >
+    <b>Stephen K</b>
+    <div style="float: right;margin-top:0px;"><b>57</b>
+        <a href = "#">
             <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
-          </a>
-        </div>
-      </div>
+        </a>
     </div>
+</div>
+
 </blockquote>
 
 Milk vendors may allow farmers to get closer to the end consumer. Farmers like Peter put in the resarch to understand such options...
@@ -76,20 +77,19 @@ Milk vendors may allow farmers to get closer to the end consumer. Farmers like P
 Spent my time today in Eastllands doing market research on Milk. I found out that there are milk vendors selling over 1000 litres of milk daily to completion between 55 and 70 bob.
 <br></br>
 <div style="text-align: center">
-<img style="width:70%; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/Eastlands_vendors.jpg" >
+    <img style="width:70%; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/Eastlands_vendors.jpg" >
 </div>
-    <br></br>
-      <div>
-        Posted by:
-        <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/Peter_n.jpg" >
-        <b>Peter N</b>
-        <div style="float: right;margin-top:0px;"> <b>30</b>
-          <a href = "#">
+<br></br>
+<div>
+    Posted by:
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/Peter_n.jpg" >
+    <b>Peter N</b>
+    <div style="float: right;margin-top:0px;"><b>30</b>
+        <a href = "#">
             <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
-          </a>
-        </div>
-      </div>
+        </a>
     </div>
+</div>
 
 </blockquote>
 
@@ -100,18 +100,17 @@ Others look at cottage industry type value addition...
 ### Elizabeth Suggests Value Addition
 
 value addition is great but where to sell is the issue. think of making yoghurt to compete with the big established companies.
-    <br></br>
-      <div>
-        Posted by:
-        <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/elizabeth_k.jpg" >
-        <b>Elizabeth K</b>
-        <div style="float: right;margin-top:0px;"> <b>16</b>
-          <a href = "#">
+<br></br>
+<div>
+    Posted by:
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/elizabeth_k.jpg" >
+    <b>Elizabeth K</b>
+    <div style="float: right;margin-top:0px;"><b>16</b>
+        <a href = "#">
             <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
-          </a>
-        </div>
-      </div>
+        </a>
     </div>
+</div>
 
 </blockquote>
 
@@ -119,34 +118,9 @@ value addition is great but where to sell is the issue. think of making yoghurt 
 
 Our AFC expert analysts collected data on milk flows around Kenya to bring AFC dairy subscribers something exclusive. Shown below:
 
-![](./valuechainimage.png)
+<img style="width: 100%;" src="https://s3.amazonaws.com/afc-dairytrial/valuechainimage.png" >
 
 The size of the bands shows the volume of milk flow. So you can see that most production is consumed directy (for home consumtion or direct sales). Most of the collection and bulking is handled by Co-ops or Self-help groups.
-
-<blockquote style="background: #D7F19F;">
-
-### AFC Analysis
-
-In the above analysis farmers can see how total production of milk in Kenya moves through stages of the value chain to end consumers. Some insights:
-
-* Around 55% of the milk produced each year is marketed with the rest used for home consumption (i.e straight to end consumer)
-* 60% of small scale dairy farmers are members of DFCSs and over 76% of dairy produce is marketed through co-operatives
-* Brookside Dairies is the largest milk processing company in Kenya, controling 38% of the dairy market (Brookside HQ is located in Ruiru)
-* Kenya Co-operative Creameries is the third largest processor of milk in Kenya, controlling approximately 15% of the raw milk market
-  <br></br>
-
-  <div>
-    Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/afc_logo.png" >
-    <b>AFC</b>
-    <div style="float: right;margin-top:0px;"> <b>134</b>
-      <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
-      </a>
-    </div>
-  </div>
-
-</blockquote>
 
 ## What's going on near me?
 
@@ -155,7 +129,7 @@ We aim to collect locations for every single co-op, cooler, dairy and processor 
 Press on the map below to use the map for yourself and look at your local area...
 
 <div style="text-align: center">
-<a href="http://acresofdata.com/wp-content/uploads/2016/05/Dairy-map-final3.html" target="_blank"><img style="width:100%;" src="https://s3.amazonaws.com/afc-dairytrial/open_map.png" ></a>
+    <a href="http://acresofdata.com/wp-content/uploads/2016/05/Dairy-map-final3.html" target="_blank"><img style="width:100%;" src="https://s3.amazonaws.com/afc-dairytrial/open_map.png" ></a>
 </div>
 
 ## But how do I know if I'm getting a good deal?
@@ -173,19 +147,19 @@ Each week AFC dairy farming members are asked the price they are selling milk, i
 These prices are put into a report that allows every member to understand average prices, and highest/lowest prices. As in the example below!
 <br></br>
 <div style="text-align: center">
-<a href="https://m.me/africafarmersclub"><img style="width:100%;" src="https://s3.amazonaws.com/afc-dairytrial/milk-price-demo-smaller.gif" ></a>
+    <a href="https://m.me/africafarmersclub"><img style="width:100%;" src="https://s3.amazonaws.com/afc-dairytrial/milk-price-demo-smaller.gif" ></a>
 </div>
 <br></br>
-  <div>
+<div>
     Posted by:
     <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/afc_logo.png" >
     <b>AFC</b>
     <div style="float: right;margin-top:0px;"> <b>210</b>
-      <a href = "#">
-        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
-      </a>
+        <a href = "#">
+            <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
+        </a>
     </div>
-  </div>
+</div>
 
 </blockquote>
 
@@ -198,14 +172,14 @@ For those signing up to a full subscription, you get:
 * weekly cow sales info
 * all topics in this guide unlocked
 
-For those wishing to stay on top of the market in Kenya, it's a must! 
+For those wishing to stay on top of the market in Kenya, it's a must!
 
 ---
 ### Read more topics
 There are number of other important topics in this guide:
 
 * [Preventing and treating milk fever](/preventing-and-treating-milk-fever) ⭐ - Guidance on milk fever issues
-* [Feeding your cows - basics](/feeding-your-cow-basics)  ⭐- Understand the basics of feeding
-* [Feeding milking cows](/feeding-milking-cows)  🔒- Know best feeds for milking cows
+* [Preventing and managing bloat](/preventing-and-managing-bloat)  ⭐- understand how to spot this issue
+* [Understanding breeds](/understanding-breeds)  🔒- Know the basic differences, pros and cons
 
 ...or you can just [see all topics](/)
